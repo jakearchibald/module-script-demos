@@ -1,0 +1,15 @@
+{
+  "name": "module-script-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jake Archibald <jaffathecake@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro index"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "micro": "latest"
+  }
+}
